@@ -24,4 +24,5 @@ jim = User.new
 jim.first_name = "Jimmy!"
 jim.last_name = "Smith"
 
+jim
 
